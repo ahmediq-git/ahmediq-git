@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-iq.ahmed-iq&left_color=midnightblue&left_text=My%20silent%20admirers%3E%3E"  />
 </div>
 
