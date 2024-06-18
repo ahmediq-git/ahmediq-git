@@ -2,11 +2,17 @@
 
 ###
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-iq.ahmed-iq&left_color=midnightblue&left_text=My%20silent%20admirers%3E%3E"  />
+</div>
+
+###
+
 <h3 align="center">I am Open to Work 💼<br>Please feel free to contact me below if you have any remote projects or opportunities ⬇️</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/ahmed-mozammil-iqbal-955a29244" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
@@ -22,13 +28,7 @@
 </div>
 
 
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-iq.ahmed-iq&left_color=midnightblue&left_text=My%20silent%20admirers%3E%3E"  />
-</div>
-
-###
+### 
 
 <h6 align="center">🔭 I am also working on Ezbase: Our Opensource backend</h6>
 
@@ -59,7 +59,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"  />
   <img width="12" />
-  <a href="https://ibb.co/XXFSm2C"><img src="https://i.ibb.co/XXFSm2C/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab-re.png" alt="rust" border="0" /></a>
+  <a href="https://ibb.co/XXFSm2C"><img src="https://i.ibb.co/XXFSm2C/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab-re.png" alt="rust" height="30" /></a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -124,9 +124,13 @@
 
 <br clear="both">
 
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-iq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmediq-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmediq-git&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmediq-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ###
