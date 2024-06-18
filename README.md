@@ -12,7 +12,7 @@
 
 ###
 
-<h6 align="left">🔭 I am also working on Ezbase: Our Opensource backend</h6>
+<h6 align="center">🔭 I am also working on Ezbase: Our Opensource backend</h6>
 
 ###
 
@@ -59,7 +59,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"  />
   <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DRust%2BProgramming%2Blanguage&psig=AOvVaw3T0ZQmecNRhT1fAVsDBGrR&ust=1718789893427000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD-obzt5IYDFQAAAAAdAAAAABAI" height="30" alt="rust logo"  />
+  <img src="https://ibb.co/XXFSm2C" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
