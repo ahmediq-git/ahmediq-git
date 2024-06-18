@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ahmed</h1>
-<h3 align="center">Developer and Computer Scientist from Pakistan</h3>
+<h3 align="center">Developer and Computer Scientist</h3>
 
 - 🔭 I’m currently working on [our Opensource backend: Ezbase](https://github.com/ahmediq-git/p06-Opensource_Backend_In_Rust)
 
