@@ -119,7 +119,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ahmed-iq/ahmed-iq/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ahmediq-git/ahmediq-git/output/snake.svg" alt="Snake animation" />
 
 ###
 
