@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmed and I'm a Computer Scientist</h2>
+<h2 align="center">Hi 👋! My name is Ahmed and I'm a Computer Scientist</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">I am Open to Work 💼<br>Please feel free to contact me below if you have any remote projects or opportunities ⬇️</p>
+<h3 align="center">I am Open to Work 💼<br>Please feel free to contact me below if you have any remote projects or opportunities ⬇️</h3>
 
 ###
 
