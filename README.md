@@ -6,11 +6,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-iq.ahmed-iq&left_color=midnightblue&left_text=My%20silent%20admirers%3E%3E"  />
 </div>
 
-###
-
-<h3 align="center">I am Open to Work 💼<br>Please feel free to contact me below if you have any remote projects or opportunities ⬇️</h3>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-mozammil-iqbal-955a29244" target="_blank">
